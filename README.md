@@ -3,7 +3,7 @@ The analysis is about how different factors associated with the last stage of th
 
 For the Part1 notebook the content mainly focuses on the background knowledge of beer homebrewing, the assumption made for this project, and how to preprocess the data. For the Part2 notebook, the full regression model is built and the linear regression model assumptions are evaluated. The Part3 notebook walks through the procedure to obtain the final model that yields the improvement in performance, to select the optimal model, and to interpret the model.
 
-## Methodology
+# Methodology
 The Part1 Notebook
 1. Data exploratory and cleaning
 2. Handle the imbalanced data: Sampling
