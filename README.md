@@ -6,7 +6,7 @@ For the Part1 notebook the content mainly focuses on the background knowledge of
 ### Methodology
 The Part1 Notebook
 1. Data exploratory and cleaning
-2. Handle the imbalanced data: Sampling
+2. Handle the imbalanced data: Down Sampling
 3. Split the data into training and testing set and standardized the predictors
 
 The Part2 Notebook
